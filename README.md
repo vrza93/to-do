@@ -1,2 +1,2 @@
-# weather
-Weather app (to be updated later_
+# To-Do App
+Weather app (to be updated later)
